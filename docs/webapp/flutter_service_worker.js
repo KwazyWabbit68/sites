@@ -3,8 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "69f73344dc7a24c44dff750aa3ddd82e",
-"assets/AssetManifest.json": "4f865c8ab9d35695b0a549d990e6ce92",
+const RESOURCES = {"assets/AssetManifest.bin": "c99bf248affb18c5f7cca4c88fdbfb5e",
+"assets/AssetManifest.json": "26a82636c145fb8a51dce0ba9543d8bd",
+"assets/assets/images/google_play/google-play-badge-en.png": "1e91d02cf5a902f38f2923c006d79281",
+"assets/assets/images/google_play/google-play-badge-fr.png": "bbe57399ccb0ab8f7ea5c88eca24dd92",
 "assets/assets/images/google_play/google-play-badge-nl.png": "02065673a35729b54a607860c231215b",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "ad622952726075aa5f0f4f2bf27d950e",
@@ -24,9 +26,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "69f73344dc7a24c44dff750aa3ddd82e
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "93b9dbc337162ad8a4ff083ff0e6136b",
-"/": "93b9dbc337162ad8a4ff083ff0e6136b",
-"main.dart.js": "b190b2240ea716b4eb75433f09e5197f",
+"index.html": "c5f1e1e95e577b56a01b4816c78f0f23",
+"/": "c5f1e1e95e577b56a01b4816c78f0f23",
+"main.dart.js": "2b239d0f5ad4a8b7cded07a4a24d8125",
 "manifest.json": "dd549ac163bb41f77dd2d97ac1c1672a",
 "version.json": "1d7242c4f1459572f35c6fd3372b7ade"};
 // The application shell files that are downloaded before a service worker can
